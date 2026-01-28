@@ -47,6 +47,7 @@ Funciona como base de dados conectada ao agente, permitindo consultas estruturad
 <img width="462" height="294" alt="image" src="https://github.com/user-attachments/assets/348666d3-b2a8-4a07-a34f-428fafd764f4" />
 
 
+
 💡 Possíveis Aplicações
 
 Este tipo de agente pode ser facilmente adaptado para:
